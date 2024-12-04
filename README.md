@@ -32,11 +32,17 @@
 
 ## Input:
 
+![Screenshot 2024-12-04 135027](https://github.com/user-attachments/assets/bbeda39f-9933-47f0-9255-0149de53da3e)
+
+
 ### Output:
 
+![WhatsApp Image 2024-12-04 at 13 44 35_de0f16a9](https://github.com/user-attachments/assets/d873f0ec-8394-431f-bc93-ecb828c4a237)
 
-### Name:
-### Register Number:
+
+
+### Name: LOKESH S
+### Register Number: 24009455
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
